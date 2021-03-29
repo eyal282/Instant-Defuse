@@ -2,10 +2,11 @@
 {
 	"Version"
 	{
-		"Latest"	"1.0"
+		"Latest"	"2.0"
 	}
 	
-	"Notes"	"Plugin Release"
+	"Notes"	"Moved repository"
+	"Notes"	"Fixed bug involving mass amount of HE explosions making the plugin think there is a live nade."
 }
 	
 "Files"
