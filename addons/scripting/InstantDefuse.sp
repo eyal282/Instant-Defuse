@@ -14,7 +14,7 @@ new EngineVersion:GameName;
 
 #define PREFIX "\x09[\x04Insta-Defuse\x09]\x01 "
 
-#define PLUGIN_VERSION "1.0"
+#define PLUGIN_VERSION "2.0"
 
 new Handle:hcv_NoobMargin = INVALID_HANDLE;
 new Handle:hcv_PrefDefault = INVALID_HANDLE;
